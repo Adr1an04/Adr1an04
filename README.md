@@ -1,5 +1,17 @@
-# 💫 About Me:
-Hello! I'm Adrian! <br><br>I'm currently perusing a bachelors degree in Computer Science in the University of Central Florida.<br><br>🔭 I’m currently working on research and learning T3 stack.<br>💬 Ask me about my hobbies!<br>⚡ Fun fact I'm probably listening to music right now.
+# 👨‍💻 About Me
+
+Hello, I'm Adrian!  
+I am currently pursuing a Bachelor's degree in Computer Science at the University of Central Florida.
+
+🔭 **Current Focus:**  
+Research and learning the T3 stack.
+
+💬 **Hobbies & Interests:**  
+Feel free to reach out if you'd like to discuss my hobbies or projects!
+
+⚡ **Fun Fact:**  
+I'm probably listening to music right now.
+
 
 
 ## 🌐 Socials:
