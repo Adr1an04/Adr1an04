@@ -7,7 +7,7 @@ I am currently pursuing a Bachelor's degree in Computer Science at the Universit
 Research and learning the T3 stack.
 
 💬 **Hobbies & Interests:**  
-Feel free to reach out if you'd like to discuss my hobbies or projects!
+Feel free to reach out if you'd like to talk about my hobbies or projects!
 
 ⚡ **Fun Fact:**  
 I'm probably listening to music right now.
