@@ -24,5 +24,4 @@ This is my hobby not gonna lie, below you can see my hobbies better.
 
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=Adr1an04&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adr1an04&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
