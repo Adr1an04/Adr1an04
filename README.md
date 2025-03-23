@@ -11,7 +11,8 @@ Research, kmodo, and Game Dev. <img align="right" height="230" src="https://medi
 This is my hobby not gonna lie, below you can see my hobbies better.
 
 ⚡ **Fun Fact:**  
-[Check this out 😱 ](www.adrianosor.io/photography)
+[Check this out 😱](https://www.adrianosor.io/photography)
+
 ## 🌐 Socials:
 
 <p align="left">
