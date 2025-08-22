@@ -1,14 +1,14 @@
 # 👨‍💻 About Me
 
 Hello, I'm Adrian!  
-I am currently pursuing a Bachelor's degree in Computer Science at the University of Central Florida.
+I am currently pursuing a Bachelor's degree in Information Technology at the University of Central Florida.
 
 🔭 **Current Focus:**  
-Research, kmodo, and Game Dev. <img align="right" height="230" src="https://media.tenor.com/d4sG_BgyH1cAAAAi/maxwell-cat.gif"  />
+Knight Hacks, Project ATS/8, and Google ADK. <img align="right" height="230" src="https://media.tenor.com/d4sG_BgyH1cAAAAi/maxwell-cat.gif"  />
 
 
 💬 **Hobbies & Interests:**  
-This is my hobby not gonna lie, below you can see my hobbies better.
+This is my main hobby, below you can see my other hobbies better.
 
 ⚡ **Fun Fact:**  
 [Check this out 😱](https://www.adrianosor.io/photography)
