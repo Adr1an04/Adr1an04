@@ -1,7 +1,7 @@
 # 👨‍💻 About Me
 
 Hello, I'm Adrian!  
-I am currently pursuing a Bachelor's degree in Information Technology at the University of Central Florida.
+I am currently a student at the University of Central Florida, and the Treasurer of Knight Hacks!
 
 🔭 **Current Focus:**  
 Knight Hacks, Project ATS/8, and Google ADK. <img align="right" height="230" src="https://media.tenor.com/d4sG_BgyH1cAAAAi/maxwell-cat.gif"  />
