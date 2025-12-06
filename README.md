@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" height="100" align="right" />
 <p align="left">
-  <img src="https://img.shields.io/badge/Research-EEG%20%2B%20ML-4B8BBE?style=flat-square&logo=brain&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Research-4B8BBE?style=flat-square&logo=brain&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-orange?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Hackathon%20Wins-5-purple?style=flat-square&logo=trophy&logoColor=white" />
 </p>
@@ -22,13 +22,13 @@ Feel free to check out my projects! If you want to work on a project together, j
 [![Repo](https://img.shields.io/badge/GitHub-boomai-BF5700?style=flat-square&logo=github&logoColor=white)](https://github.com/Adr1an04/boomai)
 
 
-Local-first AI workspace orchestrator built in Rust + Tauri  
-Keeps everything running *on your machine*, not someone elses!
+An open source local-first AI workspace orchestrator built in Rust + Tauri  
+Keeps everything running *on your machine*, not someone elses.
 
 ### Knight Hacks Forge  
 [![Repo](https://img.shields.io/badge/GitHub-forge-6A0DAD?style=flat-square&logo=github&logoColor=white)](https://github.com/knighthacks/forge)
 
-1000+ hackathon attendee tested event platform powering Knight Hacks year-round
+Knight Hacks' open source monorepo, 1000+ hackathon attendee tested event platform powering the organization year-round.
 
 
 ## Connect With Me
@@ -52,8 +52,8 @@ Always happy to chat about anything!
 ## Fun
 
 Outside of code, I’m into photography, cars, and hosting cool tech events with friends.
-<br/>
-<br/>
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="150" align="right" />
+
 <a href="https://www.adrianosor.io/photography" target="_blank">
   <img src="https://img.shields.io/badge/View%20Photography-FF6F00?style=flat-square&logoColor=white" />
 </a>
