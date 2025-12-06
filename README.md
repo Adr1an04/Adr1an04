@@ -12,9 +12,9 @@ Feel free to check out my projects! If you want to work on a project together, j
 
 ## What I’m Working On
 
-**Boomai** - An open source local-first AI workspace orchesta  
+**Boomai** - An open source local-first AI workspace orchestrator focused on giving people control over their tools instead of relying on APIs or services that change frequently. I’m building the core engine in Rust and a desktop app in Tauri.
 
-**Knight Hacks Forge** - Internal open source monorepo that operates all of Knight Hacks' infrastructure for a 1000+ attendee hackathon and events.
+**Knight Hacks Forge** - The open source monorepo that powers all the infrastructure behind our 1,000+ attendee hackathon and year-round events.
 
 ## Connect With Me
 
