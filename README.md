@@ -1,6 +1,13 @@
 # Hi, I’m Adrian (^-^)
 
 <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" height="100" align="right" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Research-EEG%20%2B%20ML-4B8BBE?style=flat-square&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-orange?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackathon%20Wins-5-purple?style=flat-square&logo=trophy&logoColor=white" />
+</p>
+
+
 I’m a student at the University of Central Florida and the Treasurer of Knight Hacks, where we run one of the largest student hackathons in the U.S. (1,000+ attendees). Prev SWE intern @ BNY Mellon building internal dev tooling, and Brain Computer Interface researcher at UCF working with EEG data and ML models.
 <br>
 <br>
@@ -11,27 +18,47 @@ Feel free to check out my projects! If you want to work on a project together, j
 
 
 ## What I’m Working On
+### Boomai  
+[![Repo](https://img.shields.io/badge/GitHub-boomai-BF5700?style=flat-square&logo=github&logoColor=white)](https://github.com/Adr1an04/boomai)
 
-**Boomai** - An open source local-first AI workspace orchestrator focused on giving people control over their tools instead of relying on APIs or services that change frequently. I’m building the core engine in Rust and a desktop app in Tauri.
 
-**Knight Hacks Forge** - The open source monorepo that powers all the infrastructure behind our 1,000+ attendee hackathon and year-round events.
+Local-first AI workspace orchestrator built in Rust + Tauri  
+Keeps everything running *on your machine*, not someone elses!
+
+### Knight Hacks Forge  
+[![Repo](https://img.shields.io/badge/GitHub-forge-6A0DAD?style=flat-square&logo=github&logoColor=white)](https://github.com/knighthacks/forge)
+
+1000+ hackathon attendee tested event platform powering Knight Hacks year-round
+
 
 ## Connect With Me
 
-I’m always down to talk about projects, hackathons, developer tools, or ideas hit me up anytime!
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="100" align="right" />
+Always happy to chat about anything!
+
 <p align="left">
 <a href="https://linkedin.com/in/adrianosoriob" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" />
+  <img src="https://img.shields.io/badge/LinkedIn-Adrian%20Osorio%20Blanchard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:contact@adrianoso.io">
+  <img src="https://img.shields.io/badge/Email-contact%40adrianoso.io-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+<a href="https://www.adrianosor.io" target="_blank">
+  <img src="https://img.shields.io/badge/Website-adrianosor.io-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
 </p>
+
 
 ## Fun
 
 Outside of code, I’m into photography, cars, and hosting cool tech events with friends.
 <br/>
-[Check out some of my photography here](https://www.adrianosor.io/photography)
+<br/>
+<a href="https://www.adrianosor.io/photography" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Photography-FF6F00?style=flat-square&logoColor=white" />
+</a>
+
+
 
 
 # Tech Stack:
