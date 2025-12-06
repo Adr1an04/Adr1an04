@@ -1,6 +1,10 @@
-# Hi, I’m Adrian
+# Hi, I’m Adrian (^-^)
+
 <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" height="100" align="right" />
-I’m a student at the University of Central Florida and the Treasurer of Knight Hacks, where we run one of the largest student hackathons in the U.S. (1,000+ attendees). Prev SWE intern at BNY and researcher at UCF.  
+I’m a student at the University of Central Florida and the Treasurer of Knight Hacks, where we run one of the largest student hackathons in the U.S. (1,000+ attendees). Prev SWE intern @ BNY Mellon building internal dev tooling, and Brain Computer Interface researcher at UCF working with EEG data and ML models.
+<br>
+<br>
+A big part of my work is in hackathons, I’ve won a couple along the way and learned a lot, but the best part has been helping the people around me along the way.
 <br>
 <br>
 Feel free to check out my projects! If you want to work on a project together, just react out! :D
@@ -15,16 +19,19 @@ Feel free to check out my projects! If you want to work on a project together, j
 ## Connect With Me
 
 I’m always down to talk about projects, hackathons, developer tools, or ideas hit me up anytime!
-
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="100" align="right" />
 <p align="left">
 <a href="https://linkedin.com/in/adrianosoriob" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" />
+
 </a>
 </p>
 
 ## Fun
 
 Outside of code, I’m into photography, cars, and hosting cool tech events with friends.
+<br/>
+[Check out some of my photography here](https://www.adrianosor.io/photography)
 
 
 # Tech Stack:
