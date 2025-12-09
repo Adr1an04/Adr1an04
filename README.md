@@ -52,7 +52,7 @@ Always happy to chat about anything!
 ## Fun
 
 Outside of code, I’m into photography, cars, and hosting cool tech events with friends.
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="150" align="right" />
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="140" align="right" />
 
 <a href="https://www.adrianosor.io/photography" target="_blank">
   <img src="https://img.shields.io/badge/View%20Photography-FF6F00?style=flat-square&logoColor=white" />
