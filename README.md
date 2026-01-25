@@ -8,7 +8,7 @@
 </p>
 
 
-I’m a student at the University of Central Florida and the Treasurer of Knight Hacks, where we run one of the largest student hackathons in the U.S. (1,000+ attendees). Prev SWE intern @ BNY Mellon building internal dev tooling, and Brain Computer Interface researcher at UCF working with EEG data and ML models.
+I’m a student at the University of Central Florida, current SWE intern @ BNY for Winter and the President of Knight Hacks, where we run one of the largest student hackathons in the U.S. (1,000+ attendees). I worked as a prev SWE intern @ BNY building internal dev tooling, prev Treasurer of Knight Hacks and Brain Computer Interface researcher at UCF working with EEG data and ML models.
 <br>
 <br>
 A big part of my work is in hackathons, I’ve won a couple along the way and learned a lot, but the best part has been helping the people around me along the way.
