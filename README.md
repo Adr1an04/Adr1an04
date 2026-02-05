@@ -1,4 +1,11 @@
-# Hi, I’m Adrian (^-^)
+<!-- Top banner (adds personality without changing your content) -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&fontColor=C9D1D9&height=180&section=header&text=Hi,%20I’m%20Adrian%20(%5E-%5E)&fontSize=44&fontAlignY=36&desc=I%20like%20building%20things%20and%20learning%20as%20I%20go&descAlignY=58&descSize=16)
+
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=FFFFFF&width=520&lines=SWE+intern+%40+BNY+%7C+UCF+student;President+of+Knight+Hacks;Hackathons%2C+OSS%2C+and+AI+research" />
+</p>
+
 
 <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" height="100" align="right" />
 <p align="left">
@@ -14,7 +21,7 @@ I’m a student at the University of Central Florida, current SWE intern @ BNY f
 A big part of my work is in hackathons, I’ve won a couple along the way and learned a lot, but the best part has been helping the people around me along the way.
 <br>
 <br>
-Feel free to check out my projects! If you want to work on a project together, just react out! :D
+Feel free to check out my projects! If you want to work on a project together, just reach out! :D
 
 
 ## What I’m Working On
@@ -47,6 +54,7 @@ Always happy to chat about anything!
   <img src="https://img.shields.io/badge/Website-adrianosor.io-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
 </p>
+
 
 
 ## Fun
