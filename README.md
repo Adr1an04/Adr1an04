@@ -1,78 +1,154 @@
-<!-- Top banner (adds personality without changing your content) -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&fontColor=C9D1D9&height=180&section=header&text=Hi,%20I’m%20Adrian%20(%5E-%5E)&fontSize=44&fontAlignY=36&desc=I%20like%20building%20things%20and%20learning%20as%20I%20go&descAlignY=58&descSize=16)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=f7f7f7&height=150&section=header&text=Adrian%20Osorio%20(^_^)&fontSize=42&fontColor=0d1117" />
 
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=FFFFFF&width=520&lines=SWE+intern+%40+BNY+%7C+UCF+student;President+of+Knight+Hacks;Hackathons%2C+OSS%2C+and+AI+research" />
+
+
+<div align="right">
+<sub><sup>SWE intern @ BNY · UCF · President of Knight Hacks · Hackathons, OSS, and AI research</sup></sub>
+</div>
+
+---
+
+<br>
+
+> I'm a student at the University of Central Florida, current SWE intern @ BNY for Winter and the President of Knight Hacks, where we run one of the largest student hackathons in the U.S. (1,000+ attendees). I worked as a prev SWE intern @ BNY building internal dev tooling, prev Treasurer of Knight Hacks and Brain Computer Interface researcher at UCF working with EEG data and ML models.
+>
+> A big part of my work is in hackathons, I've won a couple along the way and learned a lot, but the best part has been helping the people around me along the way.
+>
+> Feel free to check out my projects! If you want to work on a project together, just reach out! :D
+
+<br>
+
+<table>
+<tr>
+<td>
+
+`AI Research`
+
+</td>
+<td>
+
+`Open Source ❤`
+
+</td>
+<td>
+
+`5 Hackathon Wins`
+
+</td>
+<td>
+
+`BCI / EEG + ML`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+### Now
+
+<table>
+<tr><td width="14px">▍</td><td>
+
+**Boomai** | An open source local first AI workspace orchestrator built in Rust + Tauri. Keeps everything running *on your machine*, not someone elses.
+
+`rust` `tauri` `local-first` `ai`
+
+[![→ repo](https://img.shields.io/badge/Adr1an04/boomai-0d1117?style=flat&logo=github&logoColor=f0f6fc)](https://github.com/Adr1an04/boomai)
+
+</td></tr>
+<tr><td width="14px">▍</td><td>
+
+**Knight Hacks Forge** | Knight Hacks' open source monorepo, 1000+ hackathon attendee tested event platform powering the organization year-round.
+
+`typescript` `next.js` `monorepo` `platform`
+
+[![→ repo](https://img.shields.io/badge/knighthacks/forge-0d1117?style=flat&logo=github&logoColor=f0f6fc)](https://github.com/knighthacks/forge)
+
+</td></tr>
+</table>
+
+<br>
+
+---
+
+### Stack
+
+I like learning.
+```
+ languages    python · c · c++ · c# · go · java · javascript · kotlin · rust · typescript · php
+ frontend     react · next.js · angular · tailwind · bootstrap · three.js · vite · webgl
+ backend      express · fastapi · flask · spring · node.js · trpc · kafka · jwt
+ native       tauri · electron
+ ai/ml        pytorch · tensorflow · scikit-learn · numpy · pandas · matplotlib · cuda · opencv
+ data         mongodb · mysql · mariadb · prisma · firebase · snowflake
+ cloud        aws · gcp · firebase · vercel · ovh · apache
+ tools        git · maven · npm · pnpm · anaconda
+ design       figma · blender · adobe suite · framer
+```
+
+<br>
+
+---
+
+### Stats
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=Adr1an04&theme=dark&hide_border=true&background=00000000&ring=f0f6fc&fire=f0f6fc&currStreakLabel=f0f6fc&sideLabels=848d97&dates=848d97&currStreakNum=f0f6fc&sideNums=f0f6fc">
+    <img width="52%" src="https://nirzak-streak-stats.vercel.app/?user=Adr1an04&theme=default&hide_border=true&ring=24292f&fire=24292f&currStreakLabel=24292f" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=Adr1an04&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&title_color=f0f6fc&text_color=848d97&bg_color=00000000">
+    <img width="46%" src="https://github-contributor-stats.vercel.app/api?username=Adr1an04&limit=5&combine_all_yearly_contributions=true&hide_border=true" />
+  </picture>
 </p>
 
+<br>
 
-<img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" height="100" align="right" />
-<p align="left">
-<img src="https://img.shields.io/badge/AI%20Research-4B8BBE?style=flat-square&logo=brain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-orange?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hackathon%20Wins-5-purple?style=flat-square&logo=trophy&logoColor=white" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Adr1an04&bg_color=00000000&color=848d97&line=f0f6fc&point=f0f6fc&area_color=f0f6fc&area=true&hide_border=true&custom_title=">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adr1an04&bg_color=ffffff&color=24292f&line=24292f&point=24292f&area_color=24292f&area=true&hide_border=true&custom_title=" />
+  </picture>
 </p>
 
-
-I’m a student at the University of Central Florida, current SWE intern @ BNY for Winter and the President of Knight Hacks, where we run one of the largest student hackathons in the U.S. (1,000+ attendees). I worked as a prev SWE intern @ BNY building internal dev tooling, prev Treasurer of Knight Hacks and Brain Computer Interface researcher at UCF working with EEG data and ML models.
 <br>
-<br>
-A big part of my work is in hackathons, I’ve won a couple along the way and learned a lot, but the best part has been helping the people around me along the way.
-<br>
-<br>
-Feel free to check out my projects! If you want to work on a project together, just reach out! :D
 
+---
 
-## What I’m Working On
-### Boomai  
-[![Repo](https://img.shields.io/badge/GitHub-boomai-BF5700?style=flat-square&logo=github&logoColor=white)](https://github.com/Adr1an04/boomai)
-
-
-An open source local-first AI workspace orchestrator built in Rust + Tauri  
-Keeps everything running *on your machine*, not someone elses.
-
-### Knight Hacks Forge  
-[![Repo](https://img.shields.io/badge/GitHub-forge-6A0DAD?style=flat-square&logo=github&logoColor=white)](https://github.com/knighthacks/forge)
-
-Knight Hacks' open source monorepo, 1000+ hackathon attendee tested event platform powering the organization year-round.
-
-
-## Connect With Me
+### Connect
 
 Always happy to chat about anything!
 
-<p align="left">
-<a href="https://linkedin.com/in/adrianosoriob" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Adrian%20Osorio%20Blanchard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:contact@adrianosor.io">
-  <img src="https://img.shields.io/badge/Email-contact%40adrianosor.io-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://linkedin.com/in/adrianosoriob" target="_blank"><img src="https://img.shields.io/badge/linkedin-0d1117?style=flat&logo=linkedin&logoColor=f0f6fc" height="24" /></a>&nbsp;&nbsp;<a href="mailto:contact@adrianosor.io"><img src="https://img.shields.io/badge/email-0d1117?style=flat&logo=gmail&logoColor=f0f6fc" height="24" /></a>&nbsp;&nbsp;<a href="https://www.adrianosor.io" target="_blank"><img src="https://img.shields.io/badge/adrianosor.io-0d1117?style=flat&logo=firefox-browser&logoColor=f0f6fc" height="24" /></a>
 
-<a href="https://www.adrianosor.io" target="_blank">
-  <img src="https://img.shields.io/badge/Website-adrianosor.io-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-</a>
-</p>
+<br>
 
+---
 
+### Fun
 
-## Fun
+Outside of code, I'm into photography, cars, and hosting cool tech events with friends.
 
-Outside of code, I’m into photography, cars, and hosting cool tech events with friends.
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="140" align="right" />
+<a href="https://www.adrianosor.io/photography" target="_blank"><img src="https://img.shields.io/badge/photography_%E2%86%92-0d1117?style=flat&logoColor=f0f6fc" height="24" /></a>
 
-<a href="https://www.adrianosor.io/photography" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Photography-FF6F00?style=flat-square&logoColor=white" />
-</a>
+<br>
 
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="120" align="right" />
 
+<br><br><br><br><br>
 
+<div align="center">
+<sub><sup>I like building things and learning as I go</sup></sub>
 
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat-square&logo=ovh&logoColor=#123F6D) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat-square&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=flat-square&logo=tauri&logoColor=%23FFFFFF) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=flat-square&logo=tRPC&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat-square) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
-# Stats:
-| Streak | Top Contributed Repos |
-|--------|---------------------|
-| <img src="https://nirzak-streak-stats.vercel.app/?user=Adr1an04&theme=dark&hide_border=true" /> | <img src="https://github-contributor-stats.vercel.app/api?username=Adr1an04&limit=5&theme=dark&combine_all_yearly_contributions=true" /> |
+<br>
 
+<img src="https://komarev.com/ghpvc/?username=Adr1an04&style=flat&color=0d1117&label=views" />
+
+</div>
