@@ -138,17 +138,16 @@ Outside of code, I'm into photography, cars, and hosting cool tech events with f
 
 <a href="https://www.adrianosor.io/photography" target="_blank"><img src="https://img.shields.io/badge/photography_%E2%86%92-0d1117?style=flat&logoColor=f0f6fc" height="24" /></a>
 
-<br>
+---
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="120" align="right" />
-
-<br><br><br><br><br>
-
-<div align="center">
-<sub><sup>I like building things and learning as I go</sup></sub>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Adr1an04&style=flat&color=0d1117&label=views" />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <sub><sup>I like building things and learning as I go</sup></sub><br><br>
+      <img src="https://komarev.com/ghpvc/?username=Adr1an04&style=flat&color=0d1117&label=views" />
+    </td>
+    <td width="140" align="right">
+      <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="110" />
+    </td>
+  </tr>
+</table>
