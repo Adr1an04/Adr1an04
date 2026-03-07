@@ -33,7 +33,7 @@
 </td>
 <td>
 
-`5 Hackathon Wins`
+`6 Hackathon Wins`
 
 </td>
 <td>
