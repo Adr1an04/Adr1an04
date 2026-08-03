@@ -18,7 +18,7 @@
 
 - student at the University of Central Florida
 - president of Knight Hacks
-- prev. 2x software enginee intern @ BNY
+- prev. systems engineer intern @ Visa and 2x software engineer intern @ BNY
 - prev. BCI researcher @ UCF working with EEG + ML
 
 ## projects
